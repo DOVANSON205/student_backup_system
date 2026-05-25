@@ -1,0 +1,25 @@
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/bin/sh: 1: /student_backup_system/auto_backup.sh: not found
+/student_backup_system/auto_backup.sh: line 12: ./logs/backup.log: No such file or directory
+Checking internet connection...
+Internet connection OK.
+/student_backup_system/auto_backup.sh: line 12: ./logs/backup.log: No such file or directory
+Compressing data...
+Backup failed!
+/student_backup_system/auto_backup.sh: line 12: ./logs/backup.log: No such file or directory
+/student_backup_system/auto_backup.sh: line 12: ./logs/backup.log: No such file or directory
